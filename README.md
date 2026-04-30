@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @A1MXN
-- 👀 I’m interested in app/web development, cybersecurity and IoT.
-- 🌱 I’m currently learning react native.
-- 💞️ I’m looking to collaborate on making new apps.
+- 👀 I’m interested in ML, cybersecurity and IoT.
 - 😄 Pronouns: he/him.
 
 <!---
